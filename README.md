@@ -1,6 +1,6 @@
 # Привет, я snowfall https://www.donationalerts.com/r/snowfall1488 ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
 
-# Что может мой код?
+# - Что может мой код?
 
 Этот код генерирует случайный пароль заданной длины. <br>
 Функция generate_random_password принимает аргумент length, который определяет желаемую длину пароля. <br>
@@ -10,11 +10,11 @@
 И наконец, функция возвращает этот пароль.<br>
 #
 
-Для правильной работы тула, вам надо: <br>
+# - Для правильной работы тула, вам надо: <br>
 Только установить Python 3.10+
 #
 
-Связь со мной и т.п.: <br>
+# - Связь со мной и т.п.: <br>
 
     Discord - snowfall1488 (1153347943923982336 - id discord)
     Doxbin - https://doxbin.net/user/heavenconquered 
